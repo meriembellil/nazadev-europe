@@ -1,0 +1,34 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 16 Dec 2021 17:34:46 at https://haztread.com/index-1.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://haztread.com/index-1.html -O1 "E:\fff" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:35:54	Warning: 	File not parsed, looks like binary: https://haztread.com/revolution/css/openhand.cur
+17:35:54	Warning: 	File not parsed, looks like binary: https://haztread.com/revolution/css/closedhand.cur
+17:35:54	Error: 	"Not Found" (404) at link https://haztread.com/fonts/glyphicons-halflings-regular.woff2 (from https://haztread.com/css/bootstrap.css)
+17:35:55	Error: 	"Not Found" (404) at link https://haztread.com/single.html (from https://haztread.com/page-sidebar.html)
+17:35:55	Error: 	"Not Found" (404) at link https://haztread.com/about.html (from https://haztread.com/page-404.html)
+17:35:55	Error: 	"Not Found" (404) at link https://haztread.com/contributors.html (from https://haztread.com/page-404.html)
+17:35:55	Error: 	"Not Found" (404) at link https://haztread.com/submit.html (from https://haztread.com/page-404.html)
+17:35:55	Error: 	"Not Found" (404) at link https://haztread.com/sitemap.html (from https://haztread.com/page-404.html)
+17:35:55	Error: 	"Not Found" (404) at link https://haztread.com/login.html (from https://haztread.com/page-404.html)
+17:35:55	Error: 	"Not Found" (404) at link https://haztread.com/404.html (from https://haztread.com/page-404.html)
+17:35:55	Error: 	"Not Found" (404) at link https://haztread.com/elements.html (from https://haztread.com/page-404.html)
+17:35:55	Error: 	"Not Found" (404) at link https://haztread.com/page.html (from https://haztread.com/page-404.html)
+17:35:55	Error: 	"Not Found" (404) at link https://haztread.com/single-fullwidth.html (from https://haztread.com/page-404.html)
+17:35:55	Error: 	"Not Found" (404) at link https://haztread.com/single-review.html (from https://haztread.com/page-404.html)
+17:35:55	Error: 	"Not Found" (404) at link https://haztread.com/single-deal.html (from https://haztread.com/page-404.html)
+17:35:55	Error: 	"Not Found" (404) at link https://haztread.com/single-video.html (from https://haztread.com/page-404.html)
+17:35:55	Error: 	"Not Found" (404) at link https://haztread.com/single-audio.html (from https://haztread.com/page-404.html)
+17:35:55	Error: 	"Not Found" (404) at link https://haztread.com/single-gallery.html (from https://haztread.com/page-404.html)
+17:35:55	Error: 	"Not Found" (404) at link https://haztread.com/single-quote.html (from https://haztread.com/page-404.html)
+17:35:55	Error: 	"Not Found" (404) at link https://haztread.com/author.html (from https://haztread.com/blog.html)
+17:35:55	Error: 	"Not Found" (404) at link https://haztread.com/category.html (from https://haztread.com/blog.html)
+17:35:55	Error: 	"Not Found" (404) at link https://haztread.com/shop-wishlist.html (from https://haztread.com/shop-single.html)
+17:35:55	Error: 	"Not Found" (404) at link https://haztread.com/css/owl.video.play.png (from https://haztread.com/css/carousel.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 9 seconds : 296 links scanned, 274 files written (7688296 bytes overall) [4011353 bytes received at 58135 bytes/sec], 4742384 bytes transferred using HTTP compression in 112 files, ratio 19%, 148.0 requests per connection
+(21 errors, 2 warnings, 0 messages)
